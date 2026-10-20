@@ -1,0 +1,5 @@
+-m32
+-std=gnu11
+-ffreestanding
+-fno-pic
+-I.
